@@ -1,0 +1,51 @@
+.upper {
+            text-transform: uppercase;
+            padding-left:  0;
+        }
+        .conteiner {
+            max-width:  800px;
+            margin: 0 auto;   
+        }
+        .flex {
+            display: flex;
+            gap: 30px;
+        }
+        .bg {
+            background-color: #a23645;
+        }
+        a {
+            color: white;
+            padding:  10px;
+            text-decoration: none;
+            display: inline-block;
+        }
+        img {
+           float: right; 
+           margin-top: 13%;
+        }
+        table {
+            margin-top: 120%;
+            margin-left: 20%;
+        }
+.nav {
+  width: 100%;
+  position: fixed;
+  top: 0;
+}
+.block {
+    display: inline-flex;
+    border: 1px solid black;
+width: 800px;
+height: 180px;
+margin-top: 7%;
+padding: 5px;
+
+}
+.imge {
+    display: inline-flex;
+    position: relative;
+    top: -80px;
+    margin-left: 20px;
+    padding-left: 4px;
+   }
+ 
